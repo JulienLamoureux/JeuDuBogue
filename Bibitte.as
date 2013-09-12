@@ -16,11 +16,11 @@
 			y = stage.stageHeight/2; //aligne la bibitte
 			rotation = Math.floor(Math.random()*360);
 			removeEventListener(Event.ADDED_TO_STAGE, init)
-			addEventListener(MouseEvent.CLICK, tuer)
+			addEventListener(MouseEvent.ROLL_OVER, tuer)
 		}
 		
 		private function tuer(e:Event){
-			removeEventListener(MouseEvent.CLICK, tuer)
+			removeEventListener(MouseEvent.ROLL_OVER, tuer)
 			stop(); //la bibitte arrête de courir!
 			cycleBibitte_mc.gotoAndPlay("meurt"); //la bibitte est écrasée
 			MovieClip(parent).ajouterPoint();

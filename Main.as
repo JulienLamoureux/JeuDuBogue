@@ -5,7 +5,7 @@
 	import flash.utils.Timer;
 	
 	public class Main extends MovieClip {
-		var monTimer:Timer = new Timer(2000);
+		var monTimer:Timer = new Timer(500);
 		var vies:int;
 		
 		public function Main() {
