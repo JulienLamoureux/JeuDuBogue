@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcBibitteMorte" itemID="522f4adb-0000035e" lastModified="1378840878" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mcBibitteMorte">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="47.55" y="67.7"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <transformationPoint>
+                        <Point x="47.55" y="67.7"/>
+                      </transformationPoint>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <RaggedStroke scaleMode="normal" weight="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </RaggedStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!1818 406S4|1818 790!1818 790[1748 790 1661 806!1661 806[1608 814 1503 838!1902 1062|1802 1436!1802 1436[1733 1424 1644 1425!1644 1425[1589 1424 1481 1431!84 406|84 790!84 790[164 790 264 806!264 806[324 814 444 838!0 1090|119 1462!119
+ 1462[195 1447 297 1442!297 1442[359 1438 482 1438!92 2302|92 1983!92 1983[171 1983 272 1970!272 1970[332 1963 452 1942!1826 2302|1826 1983!1826 1983[1755 1983 1668 1970!1668 1970[1616 1963 1511 1942"/>
+                        <Edge cubics="!1818 406(1818,406;1818,526 1818,646 1818,790q1818 406 1818 790);"/>
+                        <Edge cubics="!1818 790(;1713,790 1608,814 1503,838q1818 790Q1748 790q1661 806Q1608 814q1503 838);"/>
+                        <Edge cubics="!84 406(84,406;84,526 84,646 84,790q84 406 84 790);"/>
+                        <Edge cubics="!84 790(;204,790 324,814 444,838q84 790Q164 790q264 806Q324 814q444 838);"/>
+                        <Edge cubics="!1826 2302(1826,2302;1826,2203 1826,2103 1826,1983q1826 2302 1826 1983);"/>
+                        <Edge cubics="!1826 1983(;1721,1983 1616,1963 1511,1942q1826 1983Q1755 1983q1668 1970Q1616 1963q1511 1942);"/>
+                        <Edge cubics="!92 2302(92,2302;92,2203 92,2103 92,1983q92 2302 92 1983);"/>
+                        <Edge cubics="!92 1983(;212,1983 332,1963 452,1942q92 1983Q171 1983q272 1970Q332 1963q452 1942);"/>
+                        <Edge cubics="!0 1090(0,1090;38,1207 75,1323 119,1462q0 1090 119 1462);"/>
+                        <Edge cubics="!119 1462(;234,1438 359,1438 482,1438q119 1462Q195 1447q297 1442Q359 1438q482 1438);"/>
+                        <Edge cubics="!1902 1062(1902,1062;1871,1178 1839,1296 1802,1436q1902 1062 1802 1436);"/>
+                        <Edge cubics="!1802 1436(;1700,1418 1589,1424 1481,1431q1802 1436Q1733 1424q1644 1425Q1589 1424q1481 1431);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="mcCorpsBibitte" selected="true" centerPoint3DX="50.5" centerPoint3DY="59.75">
+                  <matrix>
+                    <Matrix a="1.50003051757813" d="1.20001220703125" tx="16.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="50.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

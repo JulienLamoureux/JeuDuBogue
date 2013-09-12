@@ -1,0 +1,75 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="600" height="450" frameRate="18" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" objectsSnapTo="false" viewAngle3D="59.1837342884091" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <media>
+          <DOMBitmapItem name="1146519_64492589_600x450.jpg" itemID="522e7421-000002df" sourceExternalFilepath="./LIBRARY/1146519_64492589_600x450.jpg" sourceLastImported="1378776082" externalFileSize="61628" quality="50" href="1146519_64492589_600x450.jpg" bitmapDataHRef="M 3 1378776097.dat" frameRight="12000" frameBottom="9000" isJPEG="true"/>
+          <DOMSoundItem name="Sploutch.mp3" itemID="522f5127-00000368" sourceExternalFilepath="./LIBRARY/Sploutch.mp3" sourceLastImported="1378832577" externalFileSize="17425" href="Sploutch.mp3" soundDataHRef="M 4 1378832637.dat" format="44kHz 16bit Mono" sampleCount="28800" exportFormat="1" exportBits="7" dataLength="10553" exportNative="true" cachedSampleCount="3600"/>
+     </media>
+     <symbols>
+          <Include href="mcBibitte.xml" itemID="522f3a73-00000346" lastModified="1378840891"/>
+          <Include href="mcBibitteMorte.xml" loadImmediate="false" itemID="522f4adb-0000035e" lastModified="1378840878"/>
+          <Include href="mcCorpsBibitte.xml" loadImmediate="false" itemID="522f4a57-00000356" lastModified="1378841021"/>
+          <Include href="mcCycleBibitte.xml" loadImmediate="false" itemID="522f3a78-00000348" lastModified="1378840948"/>
+          <Include href="mcGameOver.xml" itemID="522f5bf0-000001e2" lastModified="1378836253"/>
+          <Include href="mcTableau.xml" loadImmediate="false" itemID="522f57b2-000001da" lastModified="1378836218"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Séquence 1">
+               <layers>
+                    <DOMLayer name="Calque 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="tableau" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="mcTableau" name="tableau_mc" selected="true" centerPoint3DX="77.5" centerPoint3DY="43">
+                                             <matrix>
+                                                  <Matrix tx="11" ty="10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="66.5" y="33"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="fond" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="1146519_64492589_600x450.jpg"/>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="89512" publishTime="1378836255"/>
+          <PublishItem publishSize="89513" publishTime="1378836227"/>
+          <PublishItem publishSize="89512" publishTime="1378836191"/>
+          <PublishItem publishSize="89528" publishTime="1378836172"/>
+          <PublishItem publishSize="89518" publishTime="1378836152"/>
+          <PublishItem publishSize="89515" publishTime="1378836043"/>
+          <PublishItem publishSize="89478" publishTime="1378835812"/>
+          <PublishItem publishSize="87819" publishTime="1378835801"/>
+          <PublishItem publishSize="89479" publishTime="1378835774"/>
+          <PublishItem publishSize="87819" publishTime="1378835746"/>
+          <PublishItem publishSize="87823" publishTime="1378835713"/>
+          <PublishItem publishSize="86328" publishTime="1378835204"/>
+          <PublishItem publishSize="86618" publishTime="1378834956" publishDebug="true"/>
+          <PublishItem publishSize="86240" publishTime="1378834754"/>
+          <PublishItem publishSize="86227" publishTime="1378834701"/>
+          <PublishItem publishSize="86230" publishTime="1378834679"/>
+          <PublishItem publishSize="86222" publishTime="1378834566"/>
+          <PublishItem publishSize="84818" publishTime="1378834553"/>
+          <PublishItem publishSize="84465" publishTime="1378834300"/>
+          <PublishItem publishSize="84466" publishTime="1378834293"/>
+     </publishHistory>
+</DOMDocument>

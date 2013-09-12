@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcBibitte" itemID="522f3a73-00000346" linkageExportForAS="true" linkageClassName="Bibitte" lastModified="1378840891" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="mcBibitte">
+      <layers>
+        <DOMLayer name="A" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[MovieClip(parent).enleverVie(); //si l'anim arrive au bout, le joueur perd une vie]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="anim" color="#4FFF4F" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="51" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="18000" Version="1" duration="51000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501577" xformPtYOffsetPct="0.501756" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,719.95" next="0,719.95" previous="0,719.95" roving="0" timevalue="50000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-524.95" next="0,-524.95" previous="0,-524.95" roving="0" timevalue="50000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,53.7608" next="0,53.7608" previous="0,53.7608" roving="0" timevalue="0"/><Keyframe anchor="0,53.7608" next="0,53.7608" previous="0,53.7608" roving="0" timevalue="50000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="50000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="50000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="50000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="0"/><Keyframe anchor="0,99.9985" next="0,99.9985" previous="0,99.9985" roving="0" timevalue="50000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="mcCycleBibitte" name="cycleBibitte_mc" centerPoint3DX="-358.95" centerPoint3DY="262.85">
+                  <matrix>
+                    <Matrix a="0.588623046875" b="0.80645751953125" c="-0.80645751953125" d="0.588623046875" tx="-337.6" ty="207.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.8" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
