@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="600" height="450" frameRate="18" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" objectsSnapTo="false" viewAngle3D="59.1837342884091" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="600" height="450" frameRate="18" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="59.1837342884091" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <media>
           <DOMBitmapItem name="1146519_64492589_600x450.jpg" itemID="522e7421-000002df" sourceExternalFilepath="./LIBRARY/1146519_64492589_600x450.jpg" sourceLastImported="1378776082" externalFileSize="61628" quality="50" href="1146519_64492589_600x450.jpg" bitmapDataHRef="M 3 1378776097.dat" frameRight="12000" frameBottom="9000" isJPEG="true"/>
           <DOMSoundItem name="Sploutch.mp3" itemID="522f5127-00000368" sourceExternalFilepath="./LIBRARY/Sploutch.mp3" sourceLastImported="1378832577" externalFileSize="17425" href="Sploutch.mp3" soundDataHRef="M 4 1378832637.dat" format="44kHz 16bit Mono" sampleCount="28800" exportFormat="1" exportBits="7" dataLength="10553" exportNative="true" cachedSampleCount="3600"/>
@@ -9,7 +9,7 @@
           <Include href="mcCorpsBibitte.xml" loadImmediate="false" itemID="522f4a57-00000356" lastModified="1378841021"/>
           <Include href="mcCycleBibitte.xml" loadImmediate="false" itemID="522f3a78-00000348" lastModified="1378840948"/>
           <Include href="mcGameOver.xml" itemID="522f5bf0-000001e2" lastModified="1378836253"/>
-          <Include href="mcTableau.xml" loadImmediate="false" itemID="522f57b2-000001da" lastModified="1378836218"/>
+          <Include href="mcTableau.xml" loadImmediate="false" itemID="522f57b2-000001da" lastModified="1379009197"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Séquence 1">
@@ -25,7 +25,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="mcTableau" name="tableau_mc" selected="true" centerPoint3DX="77.5" centerPoint3DY="43">
+                                        <DOMSymbolInstance libraryItemName="mcTableau" name="tableau_mc" centerPoint3DX="77.5" centerPoint3DY="43">
                                              <matrix>
                                                   <Matrix tx="11" ty="10"/>
                                              </matrix>
